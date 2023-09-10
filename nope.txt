@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Not so empty
+=======
 Still empty
+>>>>>>> origin
